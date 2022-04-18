@@ -1,0 +1,7 @@
+{
+  "name": "Organoiser",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
