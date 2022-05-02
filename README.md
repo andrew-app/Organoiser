@@ -1,4 +1,4 @@
-Built with UI Components from Ionic Framework Version 6. <img src="public/assets/icon/favicon.png" width="15" Height="15"/>
+Built with UI Components from Ionic Framework Version 6. <img src="Frontend/public/assets/icon/favicon.png" width="15" Height="15"/>
 
 Tech-Stack: 
 
