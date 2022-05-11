@@ -2,7 +2,8 @@ import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar} from '@ionic/reac
 import './Home.css';
 import { ReorderSongs } from '../components/ReorderSongs';
 import { ReorderButton } from '../components/ReorderButton';
-const Home: React.FC = () => {
+
+function Home(){
   return (
     <IonPage>
       <IonHeader>
